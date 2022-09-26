@@ -1,0 +1,22 @@
+
+
+10*misterio(7)+1  resultado de 15= 1111
+
+10*misterio(3)+1  111
+
+10*misterio(1)+1   11
+
+1
+
+
+
+
+10*misterio(10)+0  resultado de 20=10100
+
+10*misterio(5)+0  1010
+
+10*misterio(2)+1 101
+
+10*misterio(1)+0  10
+
+1
